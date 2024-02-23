@@ -1,0 +1,2 @@
+module fussballmanager_nochmal {
+}
